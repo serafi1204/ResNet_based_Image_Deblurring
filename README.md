@@ -8,7 +8,7 @@ This project is an assignment for the Advanced AI course taught by [Professor Wo
 <img src="https://github.com/user-attachments/assets/642705ec-19a4-4ad4-bbb0-2955022d8b07">
 </p>  
 
-# Learning
+# Learning (ver.1)
 -	Input image size: 128 x 128
 -	Loss function: L1loss 
 -	Batch size: 32
@@ -19,7 +19,7 @@ This project is an assignment for the Advanced AI course taught by [Professor Wo
 </p>  
 
 
-# Result
+# Result (ver.1)
 <p align="center">
 <img src="https://github.com/user-attachments/assets/f9c047e5-322a-43c7-bea3-e6dcc609231e" width="80%">
 <img src="https://github.com/user-attachments/assets/ccfc0421-c318-432f-af07-f79ddb90518a" width="80%">
