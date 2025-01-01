@@ -21,10 +21,14 @@
 
 # Result (ver.1)
 <p align="center">
-<img src="https://github.com/user-attachments/assets/f9c047e5-322a-43c7-bea3-e6dcc609231e" width="80%">
-<img src="https://github.com/user-attachments/assets/ccfc0421-c318-432f-af07-f79ddb90518a" width="80%">
-<img src="https://github.com/user-attachments/assets/3bb81ee1-1148-4150-b42a-d63cc8d7943e" width="80%">
-
+<img src="https://github.com/user-attachments/assets/0fc0fd93-2dc9-48a1-8cfc-e9001c6c5ca7" width="60%">
+<img src="https://github.com/user-attachments/assets/698a0101-4766-40bb-80e5-139f1b0e4656" width="60%">
+<img src="https://github.com/user-attachments/assets/e6e3bd08-a51a-46c3-8f9e-893ad57c5cff" width="60%">
+<img src="https://github.com/user-attachments/assets/a0df5da5-ef0d-4ddc-a1b2-7045251917e9" width="60%">
+<img src="https://github.com/user-attachments/assets/6286c6a0-d277-4123-8e06-f3edf7edf893" width="60%">
+<img src="https://github.com/user-attachments/assets/7ec0ec57-41ca-4b63-9f0f-e78584f9b3db" width="60%">
+<img src="https://github.com/user-attachments/assets/2a4a6908-0aef-44a0-af8b-b4bcfb81eaed" width="60%">
+<img src="https://github.com/user-attachments/assets/0d091744-576b-4504-a876-c957cf2c398a" width="60%">
   </div>
 
 </p>  
